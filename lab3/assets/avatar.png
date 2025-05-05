@@ -1,0 +1,6 @@
+<Image
+  source={{
+    uri: `https://ui-avatars.com/api/?name=${encodeURIComponent(ten)}&background=2196F3&color=fff&rounded=true&size=128`,
+  }}
+  style={styles.avatar}
+/>

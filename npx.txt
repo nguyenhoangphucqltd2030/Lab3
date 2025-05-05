@@ -1,0 +1,2 @@
+npx create-expo-app lab3
+npx expo start
